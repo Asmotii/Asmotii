@@ -1,12 +1,22 @@
+<p align="center">
+  <img src="ChatGPT%20Image%20Aug%2016,%202026,%2011_49_26%20AM.png" width="100%" alt="Asma Coding & Gaming">
+</p>
+
 <div align="center">
 
-# 🌸 Hi, I'm Asma 👩🏻‍💻
+### 👩🏻‍💻 Hi, I'm Asma
 
-### 🎓 MIS Graduate · 💻 CS & Data Analytics Diploma Student
+**I learn • I build • I explore**
 
-### 🚀 Founder of **LittleCoder**
+🌍 Curious about everything — because there's always something new to discover.
 
-💗 *Code · Play · Learn · Build*
+</div>
+
+<br>
+
+<div align="center">
+
+`🎮 GAME`　•　`💻 CODE`　•　`✨ CREATE`
 
 </div>
 
@@ -15,35 +25,48 @@
 ## 🌷 About Me
 
 🎓 BSc in **Management Information Systems**
-💻 Currently studying a **Diploma in Computer Science & Data Analytics**
-🚀 Founder of **LittleCoder**
+💻 Studying a **Diploma in Computer Science & Data Analytics**
 🤖 Interested in **AI, Programming, Data & Technology**
-🎮 I love **Coding, Gaming & Building digital experiences**
-🌍 Curious about **everything** — there is always something new to learn!
+🎮 I love **Coding, Gaming & creating digital experiences**
+🧠 Always experimenting, learning and asking: **How does this work?**
 
----
-
-## 🚀 LittleCoder
-
-> **Making coding & AI fun for little minds.** 🤖✨
-
-**LittleCoder** is an educational platform I founded to introduce children to the fundamentals of **Programming & Artificial Intelligence** through interactive learning.
-
-📖 Stories & Lessons
-🎮 Challenges
-🤖 Robo
-💻 Hands-on Coding
-🏆 Projects & Missions
+<br>
 
 <div align="center">
 
-### 🌱 Learn → 💻 Code → 🧪 Experiment → 🚀 Build
+`< CODE />`　🌸　`LEVEL UP`　🎮　`REPEAT ↻`
 
 </div>
 
 ---
 
-## 🍬 My Tech World
+## 🚀 LittleCoder
+
+### 🤖 Making Coding & AI fun for little minds
+
+**LittleCoder** is an educational platform I founded to help children discover the fundamentals of **Programming & Artificial Intelligence** through interactive learning experiences.
+
+📖 **Lessons & Stories**
+🎮 **Challenges & Missions**
+🤖 **Robo**
+💻 **Hands-on Coding**
+🏆 **Projects**
+
+<div align="center">
+
+### Learn → Code → Experiment → Build ✨
+
+</div>
+
+---
+
+<div align="center">
+
+`🎮 PLAYER 1`　━━━━　`DEVELOPER MODE: ON`　━━━━　`💻`
+
+</div>
+
+## 🍬 Tech I Use
 
 <div align="center">
 
@@ -58,53 +81,47 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-```text
 💻 Computer Science
 📊 Data Analytics
 🐍 Python
 🤖 Artificial Intelligence
 🌐 Web Development
-```
 
 ---
 
-## 🎮 Developer Mode: ON
+## 🎮 Developer Mode
 
 ```python
 def asma():
-    curiosity = True
-    learning = True
-    building = True
+    curious = True
 
-    while curiosity:
+    while curious:
         learn()
         code()
         experiment()
         build()
 
-    return "Dream • Plan • Code • Success ✨"
+    return "Level Up ✨"
 ```
 
 ---
 
-## 📊 GitHub Journey
-
 <div align="center">
+
+`READY PLAYER ASMA?` 🎮
+
+### 📊 GitHub Journey
 
 ![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmotii\&show_icons=true\&hide_border=true\&title_color=ff79b0\&icon_color=b59cff\&text_color=777777\&bg_color=fff9f5)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmotii\&layout=compact\&hide_border=true\&title_color=ff79b0\&text_color=777777\&bg_color=fff9f5)
 
-</div>
-
 ---
 
-<div align="center">
+### 🌸 Code • 🎮 Play • 🌍 Explore • 🚀 Build
 
-### 🎮 Code · 🌸 Learn · 🌍 Explore · 🚀 Build
-
-*Curious minds create interesting things.* ✨
+*Curiosity is my favorite way to learn.* ✨
 
 </div>
